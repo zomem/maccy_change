@@ -1,0 +1,79 @@
+{
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/ApplicationImageCache.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ApplicationImageCache.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ApplicationImageCache.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ApplicationImageCache.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ApplicationImageCache.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ApplicationImageCache.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Extensions/Color+Random.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Color+Random.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Color+Random.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Color+Random.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Color+Random.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Color+Random.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Extensions/NSRunningApplication+WindowFrame.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSRunningApplication+WindowFrame.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSRunningApplication+WindowFrame.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSRunningApplication+WindowFrame.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSRunningApplication+WindowFrame.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSRunningApplication+WindowFrame.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/KeyboardLayout.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardLayout.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardLayout.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardLayout.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardLayout.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardLayout.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Models/HistoryItem.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItem.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItem.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItem.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItem.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItem.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Models/HistoryItemContent.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemContent.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemContent.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemContent.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemContent.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemContent.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Observables/Footer.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Footer.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Footer.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Footer.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Footer.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Footer.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Settings/StorageSettingsPane.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/StorageSettingsPane.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/StorageSettingsPane.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/StorageSettingsPane.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/StorageSettingsPane.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/StorageSettingsPane.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Sorter.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sorter.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sorter.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sorter.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sorter.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sorter.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Views/ListItemTitleView.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemTitleView.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemTitleView.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemTitleView.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemTitleView.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemTitleView.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Views/ListItemView.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemView.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemView.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemView.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemView.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/ListItemView.swiftdeps"
+  }
+}

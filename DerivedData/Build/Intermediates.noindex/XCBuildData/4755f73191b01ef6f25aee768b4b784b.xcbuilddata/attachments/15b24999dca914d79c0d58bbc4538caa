@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse-primary.dia",
+    "emit-module-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse-primary-emit-module.dia",
+    "pch" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse-primary.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/SourcePackages/checkouts/fuse-swift/Fuse/Classes/Fuse.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.dia",
+    "index-unit-output-path" : "/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.o",
+    "llvm-bc" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.bc",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse.swiftdeps",
+    "swiftmodule" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/Fuse~partial.swiftmodule"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/SourcePackages/checkouts/fuse-swift/Fuse/Classes/FuseUtilities.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.dia",
+    "index-unit-output-path" : "/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.o",
+    "llvm-bc" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.bc",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities.swiftdeps",
+    "swiftmodule" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/FuseUtilities~partial.swiftmodule"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/SourcePackages/checkouts/fuse-swift/Fuse/Classes/String+Fuse.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.dia",
+    "index-unit-output-path" : "/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.o",
+    "llvm-bc" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.bc",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse.swiftdeps",
+    "swiftmodule" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Fuse.build/Debug/Fuse.build/Objects-normal/arm64/String+Fuse~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/About.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/About.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/About.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/About.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/About.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/About.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Accessibility.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Accessibility.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Accessibility.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Accessibility.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Accessibility.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Accessibility.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Clipboard.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Clipboard.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Clipboard.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Clipboard.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Clipboard.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Clipboard.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Extensions/KeyboardShortcuts.Name+Shortcuts.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardShortcuts.Name+Shortcuts.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardShortcuts.Name+Shortcuts.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardShortcuts.Name+Shortcuts.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardShortcuts.Name+Shortcuts.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/KeyboardShortcuts.Name+Shortcuts.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Extensions/NSWorkspace+ApplicationName.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSWorkspace+ApplicationName.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSWorkspace+ApplicationName.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSWorkspace+ApplicationName.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSWorkspace+ApplicationName.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/NSWorkspace+ApplicationName.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Extensions/Sauce+KeyboardShortcuts.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sauce+KeyboardShortcuts.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sauce+KeyboardShortcuts.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sauce+KeyboardShortcuts.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sauce+KeyboardShortcuts.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/Sauce+KeyboardShortcuts.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/HistoryItemAction.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemAction.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemAction.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemAction.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemAction.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemAction.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/MenuIcon.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/MenuIcon.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/MenuIcon.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/MenuIcon.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/MenuIcon.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/MenuIcon.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Settings/GeneralSettingsPane.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/GeneralSettingsPane.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/GeneralSettingsPane.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/GeneralSettingsPane.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/GeneralSettingsPane.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/GeneralSettingsPane.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Views/HeaderView.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HeaderView.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HeaderView.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HeaderView.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HeaderView.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HeaderView.swiftdeps"
+  },
+  "/Users/zj/zjLocal/rust/Maccy-master/Maccy/Views/HistoryItemView.swift" : {
+    "const-values" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemView.swiftconstvalues",
+    "dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemView.d",
+    "diagnostics" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemView.dia",
+    "object" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemView.o",
+    "swift-dependencies" : "/Users/zj/zjLocal/rust/Maccy-master/DerivedData/Build/Intermediates.noindex/Maccy.build/Debug/Maccy.build/Objects-normal/arm64/HistoryItemView.swiftdeps"
+  }
+}
