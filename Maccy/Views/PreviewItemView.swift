@@ -19,6 +19,8 @@ struct PreviewItemView: View {
                 .font(.body)
             }
           }
+          .scrollIndicators(.hidden)
+          .background { HiddenScrollIndicatorsView() }
         }
 
         Divider()

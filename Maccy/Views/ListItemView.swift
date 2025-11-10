@@ -19,62 +19,12 @@ struct ListItemView<Title: View>: View {
   @Environment(ModifierFlags.self) private var modifierFlags
 
   var body: some View {
-    @ViewBuilder
-    func primaryContent() -> some View {
-      HStack(spacing: 0) {
-        if showIcons, let appIcon {
-          VStack {
-            Spacer(minLength: 0)
-            Image(nsImage: appIcon.nsImage)
-              .resizable()
-              .frame(width: 15, height: 15)
-            Spacer(minLength: 0)
-          }
-          .padding(.leading, 4)
-          .padding(.vertical, 5)
-        }
-
-        Spacer()
-          .frame(width: showIcons ? 5 : 10)
-
-        if let accessoryImage {
-          Image(nsImage: accessoryImage)
-            .accessibilityIdentifier("copy-history-item")
-            .padding(.trailing, 5)
-            .padding(.vertical, 5)
-        }
-
-        if let image {
-          Image(nsImage: image)
-            .accessibilityIdentifier("copy-history-item")
-            .padding(.trailing, 5)
-            .padding(.vertical, 5)
-        } else {
-          ListItemTitleView(attributedTitle: attributedTitle, title: title)
-            .padding(.trailing, 5)
-        }
-
-        Spacer()
-
-        if !shortcuts.isEmpty {
-          ZStack {
-            ForEach(shortcuts) { shortcut in
-              KeyboardShortcutView(shortcut: shortcut)
-                .opacity(shortcut.isVisible(shortcuts, modifierFlags.flags) ? 1 : 0)
-            }
-          }
-          .padding(.trailing, 10)
-        }
-      }
-      .contentShape(Rectangle())
-    }
-
     HStack(spacing: 0) {
       if let onPrimaryTap {
-        primaryContent()
+        primaryContent
           .onTapGesture { onPrimaryTap() }
       } else {
-        primaryContent()
+        primaryContent
       }
 
       if let trailingAccessory {
@@ -99,5 +49,57 @@ struct ListItemView<Title: View>: View {
       }
     }
     .help(help ?? "")
+  }
+}
+
+private extension ListItemView {
+  @ViewBuilder
+  var primaryContent: some View {
+    HStack(spacing: 0) {
+      if showIcons, let appIcon {
+        VStack {
+          Spacer(minLength: 0)
+          Image(nsImage: appIcon.nsImage)
+            .resizable()
+            .frame(width: 15, height: 15)
+          Spacer(minLength: 0)
+        }
+        .padding(.leading, 4)
+        .padding(.vertical, 5)
+      }
+
+      Spacer()
+        .frame(width: showIcons ? 5 : 10)
+
+      if let accessoryImage {
+        Image(nsImage: accessoryImage)
+          .accessibilityIdentifier("copy-history-item")
+          .padding(.trailing, 5)
+          .padding(.vertical, 5)
+      }
+
+      if let image {
+        Image(nsImage: image)
+          .accessibilityIdentifier("copy-history-item")
+          .padding(.trailing, 5)
+          .padding(.vertical, 5)
+      } else {
+        ListItemTitleView(attributedTitle: attributedTitle, title: title)
+          .padding(.trailing, 5)
+      }
+
+      Spacer()
+
+      if !shortcuts.isEmpty {
+        ZStack {
+          ForEach(shortcuts) { shortcut in
+            KeyboardShortcutView(shortcut: shortcut)
+              .opacity(shortcut.isVisible(shortcuts, modifierFlags.flags) ? 1 : 0)
+          }
+        }
+        .padding(.trailing, 10)
+      }
+    }
+    .contentShape(Rectangle())
   }
 }

@@ -78,7 +78,16 @@ struct HistoryItemView: View {
           Button {
             appState.history.togglePin(item)
           } label: {
-            Image(systemName: item.isPinned ? "pin.fill" : "pin")
+            if item.isPinned {
+              Image(systemName: "pin.fill")
+            } else {
+              if item.isSelected {
+                Image(systemName: "pin")
+              } else {
+                Image(systemName: "pin")
+                  .foregroundStyle(.secondary) // 未固定时显示为灰色
+              }
+            }
           }
           .buttonStyle(.borderless)
           .help(LocalizedStringKey(item.isPinned ? "取消固定" : "固定"))

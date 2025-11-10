@@ -12,6 +12,8 @@ struct ImagePreviewView: View {
           .aspectRatio(contentMode: .fit)
           .padding()
       }
+      .scrollIndicators(.hidden)
+      .background { HiddenScrollIndicatorsView() }
 
       Divider()
 

@@ -52,6 +52,8 @@ struct HistoryListView: View {
             HistoryItemView(item: item)
           }
         }
+        // 强制隐藏 NSScrollView 滚动条（即使系统设为“始终显示”或滚动时）
+        .background { HiddenScrollIndicatorsView() }
         .task(id: appState.scrollTarget) {
           guard appState.scrollTarget != nil else { return }
 
@@ -90,7 +92,7 @@ struct HistoryListView: View {
           }
         }
       }
-      .contentMargins(.leading, 10, for: .scrollIndicators)
+      .scrollIndicators(.hidden)
     }
 
     if pinTo == .bottom {

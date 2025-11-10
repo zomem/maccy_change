@@ -129,6 +129,18 @@ class AppDelegate: NSObject, NSApplicationDelegate {
       Defaults[.migrations]["2024-07-01-version-2"] = true
     }
 
+    // Force fixed window size to 300x750 (one-time migration, overrides previous value)
+    if Defaults[.migrations]["2025-11-10-fixed-window-300x750"] != true {
+      Defaults[.windowSize] = NSSize(width: 300, height: 750)
+      Defaults[.migrations]["2025-11-10-fixed-window-300x750"] = true
+    }
+
+    // Force fixed window size to 320x750 (one-time migration, overrides previous value)
+    if Defaults[.migrations]["2025-11-10-fixed-window-320x750"] != true {
+      Defaults[.windowSize] = NSSize(width: 320, height: 750)
+      Defaults[.migrations]["2025-11-10-fixed-window-320x750"] = true
+    }
+
     // The following defaults are not used in Maccy 2.x
     // and should be removed in 3.x.
     // - LaunchAtLogin__hasMigrated

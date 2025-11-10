@@ -55,7 +55,7 @@ extension Defaults.Keys {
   static let size = Key<Int>("historySize", default: 200)
   static let sortBy = Key<Sorter.By>("sortBy", default: .lastCopiedAt)
   static let suppressClearAlert = Key<Bool>("suppressClearAlert", default: false)
-  static let windowSize = Key<NSSize>("windowSize", default: NSSize(width: 270, height: 700))
+  static let windowSize = Key<NSSize>("windowSize", default: NSSize(width: 320, height: 750))
   static let windowPosition = Key<NSPoint>("windowPosition", default: NSPoint(x: 0.5, y: 0.8))
   static let showApplicationIcons = Key<Bool>("showApplicationIcons", default: false)
 }

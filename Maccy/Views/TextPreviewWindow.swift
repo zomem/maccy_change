@@ -13,6 +13,8 @@ struct TextPreviewView: View {
           .padding()
           .frame(maxWidth: .infinity, alignment: .leading)
       }
+      .scrollIndicators(.hidden)
+      .background { HiddenScrollIndicatorsView() }
 
       Divider()
 

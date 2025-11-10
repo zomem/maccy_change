@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+        DAF00D122EAAACCC00ABCDE0 /* HiddenScrollIndicatorsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF00D112EAAACCC00ABCDEF /* HiddenScrollIndicatorsView.swift */; };
 		0ABDD5122BB47F1E0054963B /* NSWorkspace+ApplicationName.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0ABDD5112BB47F1E0054963B /* NSWorkspace+ApplicationName.swift */; };
         DAF00D022EAAAAAA00ABCDE0 /* ImagePreviewWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF00D012EAAAAAA00ABCDEF /* ImagePreviewWindow.swift */; };
         DAF00D0A2EAAAABB00ABCDE0 /* TextPreviewWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF00D092EAAAABB00ABCDEF /* TextPreviewWindow.swift */; };
@@ -225,6 +226,7 @@
 		DA1969112C3F0DD200258481 /* HistoryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryItemView.swift; sourceTree = "<group>"; };
         DAF00D012EAAAAAA00ABCDEF /* ImagePreviewWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePreviewWindow.swift; sourceTree = "<group>"; };
         DAF00D092EAAAABB00ABCDEF /* TextPreviewWindow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextPreviewWindow.swift; sourceTree = "<group>"; };
+        DAF00D112EAAACCC00ABCDEF /* HiddenScrollIndicatorsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HiddenScrollIndicatorsView.swift; sourceTree = "<group>"; };
 		DA1969132C3F11D600258481 /* PreviewItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewItemView.swift; sourceTree = "<group>"; };
 		DA1969172C3F327500258481 /* SearchFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchFieldView.swift; sourceTree = "<group>"; };
 		DA1969192C3F369800258481 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
@@ -644,6 +646,7 @@
 				DA1969112C3F0DD200258481 /* HistoryItemView.swift */,
                 DAF00D012EAAAAAA00ABCDEF /* ImagePreviewWindow.swift */,
                 DAF00D092EAAAABB00ABCDEF /* TextPreviewWindow.swift */,
+                DAF00D112EAAACCC00ABCDEF /* HiddenScrollIndicatorsView.swift */,
 				DAA072D42C40AC52006DDFD2 /* HistoryListView.swift */,
 				DA19690D2C3EEFA900258481 /* KeyboardShortcutView.swift */,
 				DA19691E2C3F5F0600258481 /* KeyHandlingView.swift */,
@@ -1024,6 +1027,7 @@
 			files = (
                 DAF00D022EAAAAAA00ABCDE0 /* ImagePreviewWindow.swift in Sources */,
                 DAF00D0A2EAAAABB00ABCDE0 /* TextPreviewWindow.swift in Sources */,
+                DAF00D122EAAACCC00ABCDE0 /* HiddenScrollIndicatorsView.swift in Sources */,
 				DA19691C2C3F3EAC00258481 /* Collection+Surrounding.swift in Sources */,
 				DA1969142C3F11D600258481 /* PreviewItemView.swift in Sources */,
 				DAA072D52C40AC52006DDFD2 /* HistoryListView.swift in Sources */,
@@ -1661,18 +1665,22 @@
 		DAEE38511E3DBEB100DD2966 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_PREVIEWS = NO;
 				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_ENTITLEMENTS = Maccy/Maccy.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+                // Local debug run: use ad-hoc signing to produce runnable binary
+                CODE_SIGN_ENTITLEMENTS = "";
+                CODE_SIGN_IDENTITY = "-";
+                "CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
+                CODE_SIGN_STYLE = Manual;
+                CODE_SIGNING_ALLOWED = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 58;
 				DEAD_CODE_STRIPPING = YES;
-				DEVELOPMENT_TEAM = MN3X4648SC;
-				ENABLE_HARDENED_RUNTIME = YES;
+                DEVELOPMENT_TEAM = "";
+                ENABLE_HARDENED_RUNTIME = NO;
+                AD_HOC_CODE_SIGNING_ALLOWED = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -1696,6 +1704,7 @@
 		DAEE38521E3DBEB100DD2966 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_PREVIEWS = NO;
 				ARCHS = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
